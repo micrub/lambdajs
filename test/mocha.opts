@@ -1,0 +1,1 @@
+--require ./test/boot-load/index.js --check-leaks --full-trace test/specs/**
