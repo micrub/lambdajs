@@ -1,0 +1,17 @@
+{
+  "name": "lambdajs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha test/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "debug": "^3.1.0",
+    "dirty-chai": "^2.0.1",
+    "mocha": "^5.2.0"
+  }
+}
